@@ -1,9 +1,23 @@
 # Weather-Application With REAL-TIME API
 
-Hii, I am Harsh , this is the major Project of my Last Year in College. In this project my main Aim is to make a Responsive Dynamic Weather Application Website with REAL-TIME API in which user can simply type the city name and he/she will get the weather of that particular city along with Date & Time.
-Tech Stack that I used in this Project :- HTML , CSS , JAVASCRIPT , BOOTSTRAP 4,  REAL-TIME API, NODE JS, EXPRESS JS.
+Hello, I'm Harsh, and I'm excited to present my college's major project. This project represents the culmination of my last year's efforts. My primary goal with this project is to create a responsive and dynamic weather application website featuring a real-time API. Users can simply input a city name, and in return, they will receive the current weather along with date and time information.
 
-It Includes the HOME , Weather & About section & also a 404 Error page when user request for the page that didn't Exsists.
+Here's the tech stack I employed for this project:
+
+HTML
+CSS
+JavaScript
+Bootstrap 4
+Real-time API integration
+Node.js
+Express.js
+The project consists of the following key sections:
+
+Home: The landing page of the website.
+Weather: This section allows users to search for weather information by typing in a city name.
+About: Here, you can find information about the project and its creator.
+404 Error Page: In case a user requests a page that doesn't exist, a custom 404 error page has been included to provide a better user experience.
+Feel free to explore the website and experience real-time weather updates for any city of your choice.
 
 # Screenshots :
 
