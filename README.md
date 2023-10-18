@@ -7,3 +7,11 @@ It Includes the HOME , Weather & About section & also a 404 Error page when user
 
 # Screenshots :
 
+![IMG_20231018_104416](https://github.com/ImHarshSharma/Weather-Application/assets/103068420/6cafab6f-14eb-40dc-88c7-49a21c15d4bf)
+
+![IMG_20231018_104452](https://github.com/ImHarshSharma/Weather-Application/assets/103068420/f16837ac-a56c-430e-a30e-63b18c8878a6)
+
+![IMG_20231018_104433](https://github.com/ImHarshSharma/Weather-Application/assets/103068420/577bb73f-adbe-450a-80cf-526c044c9db1)
+
+
+# Video : 
