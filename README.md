@@ -4,7 +4,7 @@ Hello, I'm Harsh, and I'm excited to present my college's major project. This pr
 
 Here's the tech stack I employed for this project:
 
-HTML , CSS , JavaScript , Bootstrap 4 , Real-time API integration , Node.js , Express.js
+HTML, CSS, JavaScript, Bootstrap 4, Real-time API integration, Node.js, Express.js
 
 -->The project consists of the following key sections:
 
@@ -26,3 +26,9 @@ Feel free to explore the website and experience real-time weather updates for an
 
 
 # Video : 
+
+
+
+https://github.com/ImHarshSharma/Weather-Application/assets/103068420/a8875516-8372-4db9-9882-cdcbf843fb31
+
+
